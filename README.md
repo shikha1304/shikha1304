@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shikha</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on [Recipe Book](https://github.com/shikha1304/Recipe-Book)
+- 🔭 I’m currently working on [TaskMate](https://github.com/shikha1304/TaskMate)
 
 - 🌱 I’m currently learning **Angular 17 and more of Backend in SpringBoot**
 
