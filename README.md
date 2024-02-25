@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **Angular 17 and more of Backend in SpringBoot**
 
-- 📝 I regularly write articles on [https://medium.com/@shikha04sinha](https://medium.com/@shikha04sinha)
-
-- 💬 Ask me about **Angular, Data Structures, Weather**
+- 💬 Ask me about **Angular, Data Structures...., Weather**
 
 - 📫 How to reach me **shikha04sinha@gmail.com**
 
